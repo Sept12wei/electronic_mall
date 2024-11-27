@@ -1,8 +1,3 @@
-<!--
- * @Description: 
- * @Author: 
- * @Date: 2024-03-26 15:27:05
--->
 <template>
     <div id="bk" class="wrapper">
         <div class="login-box">
